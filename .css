@@ -1,0 +1,97 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    width: 960px;
+    margin: auto;
+    background-color: rgb(227, 247, 207);
+    height:999px;
+}
+.judul img{
+    width: 960px;
+    height: 300px;
+}
+.judul h1{
+    position: absolute;
+    color: gold;
+    font-size: 70px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.judul h2{
+    position: absolute;
+    top: 100px;
+    margin-left: 40px ;
+    color: rgb(7, 105, 7);
+    text-decoration: underline;
+}
+.navigasi{
+    height: 40px;
+    background-color: red;
+}
+.navigasi ul li{
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(10, 33, 138);
+    line-height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+}
+.navigasi ul li:hover {
+    background-color: saddlebrown;
+}
+#konten h1{
+    text-align: center;
+    font-size: 67px;
+    color: blue;
+    padding-left: 23px;
+    padding-right: 25px;
+}
+#konten p{
+    font-size: 29px;
+    margin-left: 23px;
+    margin-top: 23px;
+    margin-bottom: 25px;
+}
+#konten h3{
+    text-align: center;
+    font-size: 29px;
+}
+#konten2 h1{
+    text-align: center;
+    color: rgb(18, 236, 29);
+    font-size: 70px;
+}
+#konten2 p{
+    font-size: 29px;
+    margin-left: 23px;
+    margin-top: 53px;
+    margin-bottom: 53px;
+    
+}
+video{
+    width: 960px;
+    margin: auto;
+    background-color: rgb(227, 247, 207);
+    height:800px;
+    margin-left:200px;
+}
+.ket{
+    position: absolute;
+    color: gold;
+    font-size: 37px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.link{
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(10, 33, 138);
+    line-height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 200px;
+    background-color: chartreuse;
+}
