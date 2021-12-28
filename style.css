@@ -26,10 +26,6 @@
     color: rgb(7, 105, 7);
     text-decoration: underline;
 }
-.navigasi{
-    height: 40px;
-    background-color: red;
-}
 .navigasi ul li{
     display: inline-block;
     font-size: 20px;
