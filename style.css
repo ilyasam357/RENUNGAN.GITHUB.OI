@@ -95,13 +95,3 @@ video{
     margin-left: 200px;
     background-color: chartreuse;
 }
-.link1{
-    display: inline-block;
-    font-size: 20px;
-    color: rgb(10, 33, 138);
-    line-height: 40px;
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-left: 200px;
-    background-color: chartreuse;
-}
